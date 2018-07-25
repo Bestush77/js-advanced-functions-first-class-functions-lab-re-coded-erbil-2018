@@ -16,4 +16,6 @@ const returnFirstTwoDrivers = function (array) {
     return function (num) {return num*num;}
   }
   
-  function fareDoubler (){} 
+  function fareDoubler (num) {
+    return function (num) {return num*2;}
+  }
