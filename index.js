@@ -2,7 +2,9 @@
 const returnFirstTwoDrivers = function (array) { 
   let newArray=[array[0], array[1]];
   
-  return newArray;}
+  return newArray;
+  
+}
   
   
   const returnLastTwoDrivers = function (array) {
