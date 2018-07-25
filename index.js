@@ -22,6 +22,7 @@ const returnFirstTwoDrivers = function (array) {
   const fareTripler = function (num) {
     return num*3;}
     
-    
+   function selectDifferentDrivers (array, func){
+   return func(array);}
     
   
