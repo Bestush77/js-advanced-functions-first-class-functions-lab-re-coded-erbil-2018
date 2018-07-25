@@ -16,6 +16,4 @@ const returnFirstTwoDrivers = function (array) {
     return function (num) {return num*num;}
   }
   
-  function fareDooubler = function createFareMultiplier(num) {
-    return function (num) {return num*num;}
   
